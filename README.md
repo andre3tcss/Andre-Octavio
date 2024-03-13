@@ -1,2 +1,2 @@
 # Andre-Octavio
-Meu nome é André Octavio Gasparino. Sou apaixonado por programação, especialmente desenvolvimento web back-end. Tentei ingressar na ETEC em 2021, explorei programação via app Google em 2022. Estudei Python em 2023. Em 2024, foquei em lógica de programação, MySQL e comecei Desenvolvimento Back-end Web.
+Me chamo André Octavio Gasparino e sou apaixonado por programação, especialmente pelo desenvolvimento web back-end. Em 2021, tentei ingressar na ETEC, mas não passei. No ano seguinte, explorei programação através de um aplicativo da Google. Em 2023, iniciei meus estudos em Python, embora não os tenha concluído. Já em 2024, foquei em lógica de programação, MySQL e comecei a aprender Desenvolvimento Back-end Web.
